@@ -24,7 +24,7 @@ section{
 .sec1{
     margin: 50px 0;
     box-sizing: border-box;
-    height: 100%;
+    height: 100vh;
 }
 .containerSec1{
     display: flex;
