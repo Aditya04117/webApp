@@ -326,7 +326,8 @@ section{
 #containerSec4{
     text-align: center;
     height: 100%;
-    overflow: auto;
+    overflow: hidden;
+    margin: 50px;
 }
 .contentSec4{
     margin: 100px;
